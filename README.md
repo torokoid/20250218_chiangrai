@@ -182,7 +182,7 @@ p.note { display: none; }
 <h2><span class="yellow">火木のみ開催の郊外の市場に行きました</span></h2>
 <a href="20250218_023.JPG" target="_blank"><img src="20250218_023.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">尼僧さんが居ます、初めて見たかも・・・</span></h2>
+<h2><span class="yellow">市場に尼僧さんが居ました、ここでは初めて見たかも・・・</span></h2>
 <a href="20250218_024.JPG" target="_blank"><img src="20250218_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250218_025.JPG" target="_blank"><img src="20250218_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250218_026.JPG" target="_blank"><img src="20250218_026.JPG" alt="サンプル画像" width="900" /></a>
